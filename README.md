@@ -1,4 +1,4 @@
-# Avance-1
+# Reto Pensamiento computacional para ingeniería
 
 En un futuro yo aspiro a poder convertirme en un programador de videojuegos, sin embargo a día de hoy no cuento con todas las habilidades necesarias para hacerlo. En este proyecto mi objetivo es poder programar un juego sencillo con el conocimiento adquirido en clase. 
 Tras contemplar varias opciones me he decidido en programar un juego de piedra papel o tijeras, este juego es relativamente sencillo desde una perspectiva lógica sin embargo, quiero incluir además, varias opciones de juego (multijugador local y un solo jugador contra la máquina), y un contador de victorias contra derrotas que se reinicie cuando se le ordene terminar de jugar.
