@@ -36,9 +36,12 @@ SCORE_A
 SCORE_B
 
 Funcionamiento:
+
 Requisitos: tener instalado el archivo “Piedra Papel o Tijeras c historial.py” y el al archivo “SCORES.txt” en una misma carpeta
 Formas de correr el programa: 
+
 •	Abrir el archivo con terminación .py en Thonny y darle play
+
 •	Correr en terminal con python “Tijeras c historial.py”
 
 	
